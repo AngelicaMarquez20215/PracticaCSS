@@ -1,0 +1,16 @@
+h1{
+	font-size:100px; color: crimson;
+}
+img{
+	border: 20px solid crimson;
+}
+p{
+	color: crimson;
+	font-size:50px;  
+}
+ul{
+	list-style-type: square; 
+}
+ul li{
+	font-size:22px;
+}
